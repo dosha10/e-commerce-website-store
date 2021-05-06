@@ -212,7 +212,7 @@ img {
 }
 
 
-/*===== HOME =====*/
+/*home*/
 
 .home {
     background-color: var(--gray-color);
@@ -246,7 +246,7 @@ img {
 }
 
 
-/*BUTTONS*/
+/*buttons*/
 
 .button {
     display: inline-block;
@@ -263,7 +263,7 @@ img {
 }
 
 
-/*===== COLLECTION =====*/
+/*collections*/
 
 .collection__container {
     row-gap: 2rem;
@@ -310,7 +310,7 @@ img {
 }
 
 
-/*===== FEATURED PRODUCTS =====*/
+/*featured product*/
 
 .featured__container {
     row-gap: 2rem;
@@ -362,7 +362,7 @@ img {
 }
 
 
-/*===== OFFER =====*/
+/*offer*/
 
 .offer__bg {
     background: url('/assets/img/offer.jpg') no-repeat center/cover;
@@ -388,7 +388,7 @@ img {
 }
 
 
-/*===== NEW ARRIVALS =====*/
+/*new arrivals*/
 
 .new__container {
     row-gap: 2rem;
@@ -419,7 +419,7 @@ img {
 }
 
 
-/*===== NEWSLETTER =====*/
+/*newsletter*/
 
 .newsletter {
     text-align: center;
@@ -444,7 +444,7 @@ img {
 }
 
 
-/*===== SPONSORS =====*/
+/*partners*/
 
 .partners {
     text-align: center;
@@ -471,7 +471,7 @@ img {
 }
 
 
-/*===== FOOTER =====*/
+/*footer*/
 
 .footer {
     background-color: var(--dark-color);
@@ -518,7 +518,7 @@ img {
 }
 
 
-/* ===== MEDIA QUERIES=====*/
+/* media queries*/
 
 @media screen and (min-width: 768px) {
     body {
