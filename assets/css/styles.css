@@ -519,3 +519,37 @@ img {
 
 
 /* ===== MEDIA QUERIES=====*/
+
+@media screen and (min-width: 768px) {
+    body {
+        margin: 0;
+    }
+    .section-all {
+        margin-bottom: var(--mb-4);
+    }
+    .nav {
+        height: calc(var(--header-height) + 1rem);
+        justify-content: initial;
+    }
+    .nav__menu {
+        margin-left: auto;
+    }
+    .nav__list {
+        display: flex;
+    }
+    .nav__item {
+        margin-left: var(--mb-4);
+        margin-bottom: 0;
+    }
+    #nav-toggle {
+        display: none;
+    }
+    .home__container {
+        height: 100vh;
+    }
+    .home__data {
+        padding: 0;
+        height: max-content;
+        align-self: center;
+    }
+}
