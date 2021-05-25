@@ -1,4 +1,4 @@
-# Responsive Ecommerce Website
+# Responsive Ecommerce store (mobile)
 ## Author
 Francis Ndung'u
 ### Technologies Used
